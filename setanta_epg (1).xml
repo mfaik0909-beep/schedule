@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv generator-info-name="xlsx_to_xmltv">
+  <channel id="setanta-azercell">
+    <display-name lang="en">Setanta Sports</display-name>
+  </channel>
+  <programme start="20261009123000 +0000" stop="20261009143000 +0000" channel="setanta-azercell" id="bd7fa8b1-0315-56f1-9298-2cbf5fc6ee71">
+    <title lang="en">Formula 1: Singapore Grand Prix - Sprint Qualifying</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-09</date>
+    <championship lang="en">Formula 1</championship>
+    <sport lang="en">Formula 1</sport>
+    <discipline>Sprint Qualifying</discipline>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Sprint%20Kvalifikasiya.jpg" />
+  </programme>
+  <programme start="20261009190000 +0000" stop="20261009210000 +0000" channel="setanta-azercell" id="b5092320-03eb-56c0-a281-ea3ddf946b13">
+    <title lang="en">LaLiga: Malaga - Espanyol</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-09</date>
+    <championship lang="en">LaLiga</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Malaga</rival_1>
+    <rival_2 lang="en">Espanyol</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Malaga%20Espanyol%20%282%29.jpg" />
+  </programme>
+  <programme start="20261010090000 +0000" stop="20261010110000 +0000" channel="setanta-azercell" id="6569d244-3b6a-553f-8b69-981af2f53f31">
+    <title lang="en">Formula 1: Singapore Grand Prix - Sprint</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-10</date>
+    <championship lang="en">Formula 1</championship>
+    <sport lang="en">Formula 1</sport>
+    <discipline>Sprint</discipline>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Sprint.jpg" />
+  </programme>
+  <programme start="20261010113000 +0000" stop="20261010133000 +0000" channel="setanta-azercell" id="8f80dc41-0ca7-5ac1-a8eb-47421ab3faa9">
+    <title lang="en">Premier League: Arsenal - Leeds</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-10</date>
+    <championship lang="en">Premier League</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Arsenal</rival_1>
+    <rival_2 lang="en">Leeds</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Arsenal%20Leeds.jpg" />
+  </programme>
+  <programme start="20261010120000 +0000" stop="20261010140000 +0000" channel="setanta-azercell" id="616b972d-9165-5290-a5f2-d97bd154005f">
+    <title lang="en">LaLiga: Rayo Vallecano - Athletic Bilbao</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-10</date>
+    <championship lang="en">LaLiga</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Rayo Vallecano</rival_1>
+    <rival_2 lang="en">Athletic Bilbao</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Rayo%20Valecano%20vs%20athletic%20bilbao.jpg" />
+  </programme>
+  <programme start="20261010130000 +0000" stop="20261010150000 +0000" channel="setanta-azercell" id="6346a5fe-bf7e-5e6d-9905-bcef69dd9916">
+    <title lang="en">Formula 1: Singapore Grand Prix - Qualifying</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-10</date>
+    <championship lang="en">Formula 1</championship>
+    <sport lang="en">Formula 1</sport>
+    <discipline>Qualifying</discipline>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Kvalifikasiya.jpg" />
+  </programme>
+  <programme start="20261010130000 +0000" stop="20261010150000 +0000" channel="setanta-azercell" id="9e65f61f-ca93-5438-9474-a68860c8d39b">
+    <title lang="en">Serie A: Genoa - Fiorentina</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-10</date>
+    <championship lang="en">Serie A</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Genoa</rival_1>
+    <rival_2 lang="en">Fiorentina</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Genoa%20Fiorentina.jpg" />
+  </programme>
+  <programme start="20261010140000 +0000" stop="20261010160000 +0000" channel="setanta-azercell" id="aabff08e-41b9-5bc5-b871-5a96f8cbf1e9">
+    <title lang="en">Premier League: Aston Villa - Brentford</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-10</date>
+    <championship lang="en">Premier League</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Aston Villa</rival_1>
+    <rival_2 lang="en">Brentford</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Aston%20Villa%20-%20Brendford%20%281%29.jpg" />
+  </programme>
+  <programme start="20261010140000 +0000" stop="20261010160000 +0000" channel="setanta-azercell" id="7762596b-c895-5cbf-b5bf-ebf520dd1510">
+    <title lang="en">Premier League: Chelsea - Bournemouth</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-10</date>
+    <championship lang="en">Premier League</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Chelsea</rival_1>
+    <rival_2 lang="en">Bournemouth</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Chelsea%20-%20Bournemount.jpg" />
+  </programme>
+  <programme start="20261010140000 +0000" stop="20261010160000 +0000" channel="setanta-azercell" id="7d87ef75-be15-5681-815e-2925d1ca3551">
+    <title lang="en">Premier League: Ipswich - Fulham</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-10</date>
+    <championship lang="en">Premier League</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Ipswich</rival_1>
+    <rival_2 lang="en">Fulham</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Ipswich%20Fulham.jpg" />
+  </programme>
+  <programme start="20261010140000 +0000" stop="20261010160000 +0000" channel="setanta-azercell" id="e9ca355f-cb0c-5c1b-8c3e-cb835d4b742c">
+    <title lang="en">Premier League: Sunderland - Brighton</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-10</date>
+    <championship lang="en">Premier League</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Sunderland</rival_1>
+    <rival_2 lang="en">Brighton</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Sunderland%20Brighton.jpg" />
+  </programme>
+  <programme start="20261010141500 +0000" stop="20261010161500 +0000" channel="setanta-azercell" id="95987825-9c48-5cfb-86ec-577ff4567a6d">
+    <title lang="en">LaLiga: Alaves - Atletico Madrid</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-10</date>
+    <championship lang="en">LaLiga</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Alaves</rival_1>
+    <rival_2 lang="en">Atletico Madrid</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/ALaves%20-%20Atletiko%20madrid.jpg" />
+  </programme>
+  <programme start="20261010160000 +0000" stop="20261010180000 +0000" channel="setanta-azercell" id="defb60f3-2fd0-548b-b28d-370c3838649b">
+    <title lang="en">Serie A: Inter - Parma</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-10</date>
+    <championship lang="en">Serie A</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Inter</rival_1>
+    <rival_2 lang="en">Parma</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Inter%20Parma.jpg" />
+  </programme>
+  <programme start="20261010163000 +0000" stop="20261010183000 +0000" channel="setanta-azercell" id="9bc1efce-4fc0-5514-9783-fa88cfbab99c">
+    <title lang="en">Premier League: Manchester United - Tottenham</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-10</date>
+    <championship lang="en">Premier League</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Manchester United</rival_1>
+    <rival_2 lang="en">Tottenham</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Man%20unt%20-%20Tottenham.jpg" />
+  </programme>
+  <programme start="20261010163000 +0000" stop="20261010183000 +0000" channel="setanta-azercell" id="f4f90111-9f52-50c0-8fa4-903407c59202">
+    <title lang="en">LaLiga: Barcelona - Getafe</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-10</date>
+    <championship lang="en">LaLiga</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Barcelona</rival_1>
+    <rival_2 lang="en">Getafe</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Barca%20Getafe.jpg" />
+  </programme>
+  <programme start="20261010184500 +0000" stop="20261010204500 +0000" channel="setanta-azercell" id="d9e7a3b0-7c38-5d6a-865b-5d4513a0ddb1">
+    <title lang="en">Serie A: Napoli - Frosinone</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-10</date>
+    <championship lang="en">Serie A</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Napoli</rival_1>
+    <rival_2 lang="en">Frosinone</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Napoli%20Frosinonne.jpg" />
+  </programme>
+  <programme start="20261010190000 +0000" stop="20261010210000 +0000" channel="setanta-azercell" id="a6eaf0b2-5d0c-55dc-b411-8ed6afda793e">
+    <title lang="en">LaLiga: Real Madrid - Villarreal</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-10</date>
+    <championship lang="en">LaLiga</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Real Madrid</rival_1>
+    <rival_2 lang="en">Villarreal</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Real%20madrid%20-%20villareal.jpg" />
+  </programme>
+  <programme start="20261011103000 +0000" stop="20261011123000 +0000" channel="setanta-azercell" id="2e20a08f-f648-5761-9bd4-55a1dec72569">
+    <title lang="en">Serie A: Como - Roma</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-11</date>
+    <championship lang="en">Serie A</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Como</rival_1>
+    <rival_2 lang="en">Roma</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Como%20-%20Roma%20%281%29.jpg" />
+  </programme>
+  <programme start="20261011120000 +0000" stop="20261011140000 +0000" channel="setanta-azercell" id="fd44aee4-4dd1-51db-8dd2-80677b33a31f">
+    <title lang="en">LaLiga: Elche - Celta Vigo</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-11</date>
+    <championship lang="en">LaLiga</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Elche</rival_1>
+    <rival_2 lang="en">Celta Vigo</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Elche%20-%20Celta%20Vigo.jpg" />
+  </programme>
+  <programme start="20261011120000 +0000" stop="20261011140000 +0000" channel="setanta-azercell" id="51943214-8197-517b-b674-9dd5a20d2f16">
+    <title lang="en">Formula 1: Singapore Grand Prix - Race</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-11</date>
+    <championship lang="en">Formula 1</championship>
+    <sport lang="en">Formula 1</sport>
+    <discipline>Race</discipline>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Race%20Day.jpg" />
+  </programme>
+  <programme start="20261011130000 +0000" stop="20261011150000 +0000" channel="setanta-azercell" id="b5774140-a819-557c-90df-9410c5b6d850">
+    <title lang="en">Serie A: Lazio - Monza</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-11</date>
+    <championship lang="en">Serie A</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Lazio</rival_1>
+    <rival_2 lang="en">Monza</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Lazio%20-%20Monza.jpg" />
+  </programme>
+  <programme start="20261011130000 +0000" stop="20261011150000 +0000" channel="setanta-azercell" id="a99b836d-ee81-55bd-951a-cdefc7fca855">
+    <title lang="en">Serie A: Lecce - Bologna</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-11</date>
+    <championship lang="en">Serie A</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Lecce</rival_1>
+    <rival_2 lang="en">Bologna</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Lecce%20-%20Bologna.jpg" />
+  </programme>
+  <programme start="20261011130000 +0000" stop="20261011150000 +0000" channel="setanta-azercell" id="4ca25008-a703-557d-925d-b8740be57a4f">
+    <title lang="en">Premier League: Crystal Palace - Nottingham</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-11</date>
+    <championship lang="en">Premier League</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Crystal Palace</rival_1>
+    <rival_2 lang="en">Nottingham</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Crystal%20palace%20-%20Nottingham.jpg" />
+  </programme>
+  <programme start="20261011130000 +0000" stop="20261011150000 +0000" channel="setanta-azercell" id="ee44551e-a7b0-5145-84c9-6c238434c111">
+    <title lang="en">Premier League: Hull - Everton</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-11</date>
+    <championship lang="en">Premier League</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Hull</rival_1>
+    <rival_2 lang="en">Everton</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Hull%20-Everton.jpg" />
+  </programme>
+  <programme start="20261011141500 +0000" stop="20261011161500 +0000" channel="setanta-azercell" id="957f976d-6e77-5b18-bb18-f8a35001044d">
+    <title lang="en">LaLiga: Real Sociedad - Dep. A Coruna</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-11</date>
+    <championship lang="en">LaLiga</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Real Sociedad</rival_1>
+    <rival_2 lang="en">Dep. A Coruna</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Real%20Sosiedad%20-%20Deportivo.jpg" />
+  </programme>
+  <programme start="20261011153000 +0000" stop="20261011173000 +0000" channel="setanta-azercell" id="e58553e8-aa60-5cca-baa4-42fb2f385bb2">
+    <title lang="en">Premier League: Liverpool - Manchester City</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-11</date>
+    <championship lang="en">Premier League</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Liverpool</rival_1>
+    <rival_2 lang="en">Manchester City</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Liverpool%20City.jpg" />
+  </programme>
+  <programme start="20261011160000 +0000" stop="20261011180000 +0000" channel="setanta-azercell" id="2a884427-fc09-593a-8fae-2da4d5fa70bf">
+    <title lang="en">Serie A: Sassuolo - Milan</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-11</date>
+    <championship lang="en">Serie A</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Sassuolo</rival_1>
+    <rival_2 lang="en">Milan</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Sassuolo%20-%20Milan.jpg" />
+  </programme>
+  <programme start="20261011163000 +0000" stop="20261011183000 +0000" channel="setanta-azercell" id="1efbfa37-d960-52e7-b608-9606af16cc7d">
+    <title lang="en">LaLiga: Real Betis - Osasuna</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-11</date>
+    <championship lang="en">LaLiga</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Real Betis</rival_1>
+    <rival_2 lang="en">Osasuna</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Real%20Betis%20-%20Ossasusa.jpg" />
+  </programme>
+  <programme start="20261011184500 +0000" stop="20261011204500 +0000" channel="setanta-azercell" id="86b50efb-9f3f-543a-a99c-26cfacb4b5d1">
+    <title lang="en">Serie A: Cagliari - Juventus</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-11</date>
+    <championship lang="en">Serie A</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Cagliari</rival_1>
+    <rival_2 lang="en">Juventus</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Cagliari%20Juve.jpg" />
+  </programme>
+  <programme start="20261011190000 +0000" stop="20261011210000 +0000" channel="setanta-azercell" id="8783507f-9ab7-52ed-ae43-57f5c573c88f">
+    <title lang="en">LaLiga: Racing Santander - Valencia</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-11</date>
+    <championship lang="en">LaLiga</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Racing Santander</rival_1>
+    <rival_2 lang="en">Valencia</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Racing%20Valencia.jpg" />
+  </programme>
+  <programme start="20261012163000 +0000" stop="20261012183000 +0000" channel="setanta-azercell" id="9334121f-0943-52ea-b4f9-8d00cd49014b">
+    <title lang="en">Serie A: Atalanta - Venezia</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-12</date>
+    <championship lang="en">Serie A</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Atalanta</rival_1>
+    <rival_2 lang="en">Venezia</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Atalanta%20Venecia.jpg" />
+  </programme>
+  <programme start="20261012184500 +0000" stop="20261012204500 +0000" channel="setanta-azercell" id="1acda7fd-0111-5e1a-bcde-9f61172bbba6">
+    <title lang="en">Serie A: Torino - Udinese</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-12</date>
+    <championship lang="en">Serie A</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Torino</rival_1>
+    <rival_2 lang="en">Udinese</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Torino%20Udinese.jpg" />
+  </programme>
+  <programme start="20261012190000 +0000" stop="20261012210000 +0000" channel="setanta-azercell" id="ebbeda4a-82e5-51ac-8e5a-b99fd27d246e">
+    <title lang="en">LaLiga: Levante - Sevilla</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-12</date>
+    <championship lang="en">LaLiga</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Levante</rival_1>
+    <rival_2 lang="en">Sevilla</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Levante%20sevilla.jpg" />
+  </programme>
+  <programme start="20261012190000 +0000" stop="20261012210000 +0000" channel="setanta-azercell" id="fc0c60d1-0f10-512a-889f-12c020072911">
+    <title lang="en">Premier League: Coventry - Newcastle</title>
+    <category lang="en">Sport</category>
+    <ganre lang="en">Broadcast</ganre>
+    <date>2026-10-12</date>
+    <championship lang="en">Premier League</championship>
+    <sport lang="en">Football</sport>
+    <rival_1 lang="en">Coventry</rival_1>
+    <rival_2 lang="en">Newcastle</rival_2>
+    <icon type="poster" position="gorizotal" aspect-ratio="16:9" src="https://raw.githubusercontent.com/mfaik0909-beep/schedule/main/Coventry%20Newcastle.jpg" />
+  </programme>
+</tv>
